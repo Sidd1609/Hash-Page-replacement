@@ -1,0 +1,2 @@
+# Hash-Page-replacement
+A page replacement technique used for page replacement using dynamic approach. We use a linked list for ordering the pages based on the arrival and the page that arrived first is placed on the left end of the linked list. This technique helps to reduce the overhead in Optimal replacement method and also takes the number of references made to a page thus keeping the most used/ required pages ready to use reducing page faults. This technique showed a noticeable decrease in access time for a page and proved to be efficient.
